@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "swaggerviewer:openapi": "file:///d%3A/projetos_dart/semana-backend/backend/specs/swagger.yaml"
+    }
+}
